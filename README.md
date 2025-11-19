@@ -1,3 +1,6 @@
+<!--- banner --->
+<img src="./OaliCover.png" alt="Hello world">
+
 <h1 align="center">Hi 👋, I'm Oali Ullah</h1>
 <h2 align="center">💼 MERN Stack Web Developer</h2>
 <div align="center">
@@ -9,6 +12,11 @@
   <a href="https://x.com/waliullah99"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="mailto:waliullah.neo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
+
+
+##  <b> 🚀 What I’m Currently Doing:</b>
+- ⭐ Exploring **Next.js** for advanced React development.
+- 🛠️ Working on a tourism website project
 
 <!--- technology --->
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
